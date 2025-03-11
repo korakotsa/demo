@@ -1,0 +1,291 @@
+﻿RFID,LEVEL 2,LEVEL 3,LEVEL 4,TYPE,CUSTOMER TYPE,CUSTOMER GROUP
+6101,6 : Food Retailer,61 : Street Shop,6101 : ร้าน/แผงลอย ผัก/ผลไม้/แปรรูปจากผัก ผลไม้,Wholesale,FOOD RETAILER,DONJAI 1
+6102,6 : Food Retailer,61 : Street Shop,6102 : ร้าน/แผงลอย เนื้อสัตว์/แปรรูปจากเนื้อสัตว์,Wholesale,FOOD RETAILER,DONJAI 1
+6103,6 : Food Retailer,61 : Street Shop,6103 : ร้านค้าอาหารแช่แข็ง/แช่เย็น,Wholesale,FOOD RETAILER,DONJAI 1
+6201,6 : Food Retailer,62 : SME-Grocery shop,6201 : ร้านชำ/แผงขายชำ ขนาดน้อยกว่า 200ตรม.,Wholesale,FOOD RETAILER,DONJAI 1
+6202,6 : Food Retailer,62 : SME-Grocery shop,6202 : ร้านขายยา และ เครื่องสำอาง,Wholesale,FOOD RETAILER,DONJAI 1
+6203,6 : Food Retailer,62 : SME-Grocery shop,6203 : ร้านขายอาหาร ยาสัตว์ อุปกรณ์ และของใช้เกี่ยวกับสัตว์เลี้ยง,Wholesale,FOOD RETAILER,DONJAI 1
+6204,6 : Food Retailer,62 : SME-Grocery shop,6204 : ร้านมินิมาร์ท มีกระจกหน้าร้าน มี/ไม่มีแอร์ มีเคาน์เตอร์และชั้นเรียง,Wholesale,FOOD RETAILER,DONJAI 1
+6205,6 : Food Retailer,62 : SME-Grocery shop,6205 : ซุปเปอร์มาร์เก็ต ขนาดมากกว่า 200ตรม. มีกระจก มีแอร์ มีเคาน์เตอร์ และรถเข็น,Wholesale,FOOD RETAILER,DONJAI 1
+6206,6 : Food Retailer,62 : SME-Grocery shop,6206 : ร้านค้าปลีกสินค้าบริโภค / อาหารสด ในรูปแบบรถเร่,Wholesale,FOOD RETAILER,DONJAI 1
+6207,6 : Food Retailer,62 : SME-Grocery shop,6207 : ร้านค้าปลีกสินค้าบริโภคอื่นๆ/ ร้านโอท็อป-ของฝากสินค้าบริโภค,Wholesale,FOOD RETAILER,DONJAI 1
+6301,6 : Food Retailer,63 : Retailer RDS,6301 : ร้านค้าโชว์ห่วย RDS,Wholesale,RDS,DONJAI 1
+6401,6 : Food Retailer,64 : Donjai Shop 2.3,6401 : ร้านค้า Donjai Size S,Wholesale,DONJAI 2.3,DONJAI X
+6402,6 : Food Retailer,64 : Donjai Shop 2.3,6402 : ร้านค้า Donjai Size M,Wholesale,DONJAI 2.3,DONJAI X
+6403,6 : Food Retailer,64 : Donjai Shop 2.3,6403 : ร้านค้า Donjai Size L,Wholesale,DONJAI 2.3,DONJAI X
+6404,6 : Food Retailer,64 : Donjai Shop 2.3,6404 : ร้านค้า Donjai Size XL ,Wholesale,DONJAI 2.3,DONJAI X
+6405,6 : Food Retailer,64 : Donjai Shop 2.3,6405 : ร้านค้า Donjai Size XS,Wholesale,DONJAI 2.3,DONJAI X
+6406,6 : Food Retailer,64 : Donjai Shop 2.3,6406 : ร้านค้า Dummy,Wholesale,DONJAI 2.3,DONJAI X
+6501,6 : Food Retailer,65 : Donjai Shop 2.5,6501 : ร้านค้า Donjai Size S,Wholesale,DONJAI 2.5,DONJAI X
+6502,6 : Food Retailer,65 : Donjai Shop 2.5,6502 : ร้านค้า Donjai Size M,Wholesale,DONJAI 2.5,DONJAI X
+6503,6 : Food Retailer,65 : Donjai Shop 2.5,6503 : ร้านค้า Donjai Size L,Wholesale,DONJAI 2.5,DONJAI X
+6504,6 : Food Retailer,65 : Donjai Shop 2.5,6504 : ร้านค้า Donjai Size XL,Wholesale,DONJAI 2.5,DONJAI X
+6505,6 : Food Retailer,65 : Donjai Shop 2.5,6505 : ร้านค้า Donjai Size XS,Wholesale,DONJAI 2.5,DONJAI X
+6506,6 : Food Retailer,65 : Donjai Shop 2.5,6506 : ร้านค้า Dummy,Wholesale,DONJAI 2.5,DONJAI X
+6601,6 : Food Retailer,66 : Donjai Shop 3.3,6601 : ร้านค้า Donjai Size S,Wholesale,DONJAI 3.3,DONJAI X
+6602,6 : Food Retailer,66 : Donjai Shop 3.3,6602 : ร้านค้า Donjai Size M,Wholesale,DONJAI 3.3,DONJAI X
+6603,6 : Food Retailer,66 : Donjai Shop 3.3,6603 : ร้านค้า Donjai Size L,Wholesale,DONJAI 3.3,DONJAI X
+6604,6 : Food Retailer,66 : Donjai Shop 3.3,6604 : ร้านค้า Donjai Size XL ,Wholesale,DONJAI 3.3,DONJAI X
+6605,6 : Food Retailer,66 : Donjai Shop 3.3,6605 : ร้านค้า Donjai Size XS,Wholesale,DONJAI 3.3,DONJAI X
+6606,6 : Food Retailer,66 : Donjai Shop 3.3,6606 : ร้านค้า Dummy,Wholesale,DONJAI 3.3,DONJAI X
+6701,6 : Food Retailer,67 : -,6701 : -,Wholesale,,
+6702,6 : Food Retailer,67 : -,6702 : -,Wholesale,,
+6703,6 : Food Retailer,67 : -,6703 : -,Wholesale,,
+6704,6 : Food Retailer,67 : -,6704 : -,Wholesale,,
+6705,6 : Food Retailer,67 : -,6705 : -,Wholesale,,
+6706,6 : Food Retailer,67 : -,6706 : -,Wholesale,,
+6707,6 : Food Retailer,67 : -,6707 : -,Wholesale,,
+6801,6 : Food Retailer,68 : Donjai Shop 2.5A,6801 : ร้านค้า Donjai Size S,Wholesale,DONJAI 2.5A,DONJAI X
+6802,6 : Food Retailer,68 : Donjai Shop 2.5A,6802 : ร้านค้า Donjai Size M,Wholesale,DONJAI 2.5A,DONJAI X
+6803,6 : Food Retailer,68 : Donjai Shop 2.5A,6803 : ร้านค้า Donjai Size L,Wholesale,DONJAI 2.5A,DONJAI X
+6804,6 : Food Retailer,68 : Donjai Shop 2.5A,6804 : ร้านค้า Donjai Size XL,Wholesale,DONJAI 2.5A,DONJAI X
+6805,6 : Food Retailer,68 : Donjai Shop 2.5A,6805 : ร้านค้า Donjai Size XS,Wholesale,DONJAI 2.5A,DONJAI X
+6806,6 : Food Retailer,68 : Donjai Shop 2.5A,6806 : ร้านค้า Dummy,Wholesale,DONJAI 2.5A,DONJAI X
+6901,6 : Food Retailer,69 : Donjai Shop 4.5,6901 : ร้านค้า Donjai Size A,Wholesale,DONJAI 4.5,DONJAI X
+6902,6 : Food Retailer,69 : Donjai Shop 4.5,6902 : ร้านค้า Donjai Size B,Wholesale,DONJAI 4.5,DONJAI X
+6903,6 : Food Retailer,69 : Donjai Shop 4.5,6903 : ร้านค้า Donjai Size C,Wholesale,DONJAI 4.5,DONJAI X
+6904,6 : Food Retailer,69 : Donjai Shop 4.5,6904 : ร้านค้า Donjai Size D,Wholesale,DONJAI 4.5,DONJAI X
+6905,6 : Food Retailer,69 : Donjai Shop 4.5,6905 : ร้านค้า Dummy,Wholesale,DONJAI 4.5,DONJAI X
+7101,7 : Non Food Retailer,71 : Business User,7101 : ร้านขายมอเตอร์ไซต์/อะไหล่/ซ่อม,Wholesale,NON FOOD RETAILER,DONJAI 1
+7102,7 : Non Food Retailer,71 : Business User,7102 : ร้านขายจักรยาน/อะไหล่/ซ่อม,Wholesale,NON FOOD RETAILER,DONJAI 1
+7103,7 : Non Food Retailer,71 : Business User,7103 : ร้าน โชว์รูมขายรถยนต์/ประดับยนต์,Wholesale,NON FOOD RETAILER,DONJAI 1
+7104,7 : Non Food Retailer,71 : Business User,7104 : ร้านขายอุปกรณ์ก่อสร้าง,Wholesale,NON FOOD RETAILER,DONJAI 1
+7105,7 : Non Food Retailer,71 : Business User,7105 : ร้านขายเสื้อผ้าเย็บปัก,Wholesale,NON FOOD RETAILER,DONJAI 1
+7106,7 : Non Food Retailer,71 : Business User,7106 : ร้านเพชรทอง,Wholesale,NON FOOD RETAILER,DONJAI 1
+7201,7 : Non Food Retailer,72 : SME-Non food shop,7201 : ร้านขายเครื่องเขียน อุปกรณ์การเรียน,Wholesale,NON FOOD RETAILER,DONJAI 1
+7202,7 : Non Food Retailer,72 : SME-Non food shop,7202 : ร้านขายอุปกรณ์ และเครื่องใช้สำนักงาน ขายคอมพิวเตอร์,Wholesale,NON FOOD RETAILER,DONJAI 1
+7203,7 : Non Food Retailer,72 : SME-Non food shop,7203 : ร้านขายเครื่องใช้ไฟฟ้า,Wholesale,NON FOOD RETAILER,DONJAI 1
+7204,7 : Non Food Retailer,72 : SME-Non food shop,7204 : ร้านขายสินค้าอุปโภค ในรูแบบรถเร่,Wholesale,NON FOOD RETAILER,DONJAI 1
+7205,7 : Non Food Retailer,72 : SME-Non food shop,7205 : ร้านค้าปลีกสินค้าบริโภคอื่นๆ / ร้านโอท็อป- ของฝากสินค้าอุปโภค/ร้านสังฆภัณฑ์,Wholesale,NON FOOD RETAILER,DONJAI 1
+7206,7 : Non Food Retailer,72 : SME-Non food shop,7206 : ร้านขายเฟอร์นิเจอร์เครื่องนอน,Wholesale,NON FOOD RETAILER,DONJAI 1
+7207,7 : Non Food Retailer,72 : SME-Non food shop,7207 : ร้านขายโฟม ถุงพลาสติก ยาง หลอด บรรจุภัณฑ์,Wholesale,NON FOOD RETAILER,DONJAI 1
+7208,7 : Non Food Retailer,72 : SME-Non food shop,7208 : ร้านขายอุปโภคอื่นๆ,Wholesale,NON FOOD RETAILER,DONJAI 1
+7209,7 : Non Food Retailer,72 : SME-Non food shop,7209 : ร้านขายปุ๋ย/สินค้าเกี่ยวกับการเกษตร/ผลิตภัณฑ์การเกษตร,Wholesale,NON FOOD RETAILER,DONJAI 1
+7301,7 : Non Food Retailer,73 : Cash Van,7301 : Thai Bev Cash Van,Wholesale,CASH VAN,DONJAI 1
+7302,7 : Non Food Retailer,73 : Cash Van,7302 : Donjai Cash Van,Wholesale,CASH VAN,DONJAI 1
+7303,7 : Non Food Retailer,73 : Cash Van,7303 : -,Wholesale,CASH VAN,DONJAI 1
+7304,7 : Non Food Retailer,73 : Cash Van,7304 : -,Wholesale,CASH VAN,DONJAI 1
+7401,7 : Non Food Retailer,74 : Donjai Shop 4.1,7401 : ร้านค้า Donjai Size A,Wholesale,DONJAI 4.1,DONJAI X
+7402,7 : Non Food Retailer,74 : Donjai Shop 4.1,7402 : ร้านค้า Donjai Size B,Wholesale,DONJAI 4.1,DONJAI X
+7403,7 : Non Food Retailer,74 : Donjai Shop 4.1,7403 : ร้านค้า Donjai Size C,Wholesale,DONJAI 4.1,DONJAI X
+7404,7 : Non Food Retailer,74 : Donjai Shop 4.1,7404 : ร้านค้า Donjai Size D,Wholesale,DONJAI 4.1,DONJAI X
+7405,7 : Non Food Retailer,74 : Donjai Shop 4.1,7405 : ร้านค้า Dummy,Wholesale,DONJAI 4.1,DONJAI X
+7501,7 : Non Food Retailer,75 : Donjai Shop 4.3,7501 : ร้านค้า Donjai Size A,Wholesale,DONJAI 4.3,DONJAI X
+7502,7 : Non Food Retailer,75 : Donjai Shop 4.3,7502 : ร้านค้า Donjai Size B,Wholesale,DONJAI 4.3,DONJAI X
+7503,7 : Non Food Retailer,75 : Donjai Shop 4.3,7503 : ร้านค้า Donjai Size C,Wholesale,DONJAI 4.3,DONJAI X
+7504,7 : Non Food Retailer,75 : Donjai Shop 4.3,7504 : ร้านค้า Donjai Size D,Wholesale,DONJAI 4.3,DONJAI X
+7505,7 : Non Food Retailer,75 : Donjai Shop 4.3,7505 : ร้านค้า Dummy,Wholesale,DONJAI 4.3,DONJAI X
+7601,7 : Non Food Retailer,76 : Donjai RDS ,7601 : ร้านค้า Donjai RDS,Wholesale,DONJAI RDS,DONJAI X
+7701,7 : Non Food Retailer,77 : Chokchai,7701 : ร้านค้า Chokchai,Wholesale,CHOKCHAI,DONJAI X
+7801,7 : Non Food Retailer,78 : Donjai Shop 1.1,7801 : Donjai Shop 1.1,Wholesale,DONJAI 1.1,DONJAI X
+7802,7 : Non Food Retailer,78 : Donjai Shop 1.1,7802 : Donjai Shop 1.1 A,Wholesale,DONJAI 1.1,DONJAI X
+7803,7 : Non Food Retailer,78 : Donjai Shop 1.1,7803 : Donjai Shop 1.1 AB,Wholesale,DONJAI 1.1,DONJAI X
+8101,8 : HoReCa,81 : Hotel,8101 : อพาร์ทเมนท์ / หอพัก,Food Service,HORECA,DONJAI 1
+8102,8 : HoReCa,81 : Hotel,8102 : โรงแรม/รีสอร์ต 1 ดาว,Food Service,HORECA,DONJAI 1
+8103,8 : HoReCa,81 : Hotel,8103 : โรงแรม/รีสอร์ต 2-3 ดาว,Food Service,HORECA,DONJAI 1
+8104,8 : HoReCa,81 : Hotel,8104 : โรงแรม/รีสอร์ต 4-5 ดาว,Food Service,HORECA,DONJAI 1
+8201,8 : HoReCa,82 : Restaurant,8201 : ร้านอาหารไทย,Food Service,HORECA,DONJAI 1
+8202,8 : HoReCa,82 : Restaurant,8202 : ร้านอาหารอีสาน,Food Service,HORECA,DONJAI 1
+8203,8 : HoReCa,82 : Restaurant,8203 : ร้านอาหารจีน,Food Service,HORECA,DONJAI 1
+8204,8 : HoReCa,82 : Restaurant,8204 : ร้านอาหารเวียดนาม,Food Service,HORECA,DONJAI 1
+8205,8 : HoReCa,82 : Restaurant,8205 : ร้านอาหารญี่ปุ่น,Food Service,HORECA,DONJAI 1
+8206,8 : HoReCa,82 : Restaurant,8206 : ร้านอาหารเกาหลี,Food Service,HORECA,DONJAI 1
+8207,8 : HoReCa,82 : Restaurant,8207 : ร้านอาหารอินเดีย,Food Service,HORECA,DONJAI 1
+8208,8 : HoReCa,82 : Restaurant,8208 : ร้านอาหารมุสลิม,Food Service,HORECA,DONJAI 1
+8209,8 : HoReCa,82 : Restaurant,8209 : ร้านอาหารตะวันตก อาทิ สเต๊ก/อเมริกัน/อิตาเลี่ยน/แม็กซิกัน/อิสราเอล/ฝรั่งเศส,Food Service,HORECA,DONJAI 1
+8210,8 : HoReCa,82 : Restaurant,8210 : ร้านหมูกระทะ/บาร์บีคิว/สุกี้/เนื้อย่าง/ชาบู,Food Service,HORECA,DONJAI 1
+8211,8 : HoReCa,82 : Restaurant,8211 : ร้านอาหารตามสั่ง,Food Service,HORECA,DONJAI 1
+8212,8 : HoReCa,82 : Restaurant,8212 : ร้านอาหารประเภทก๋วยเตี๋ยว/ผ้ดไท/ราดหน้า/ก๋วยจั๊บ,Food Service,HORECA,DONJAI 1
+8213,8 : HoReCa,82 : Restaurant,8213 : ร้านอาหารจานหลัก อาทิ ข้าวมันไก่-ข้าวขาหมู-หน้าเป็ด,Food Service,HORECA,DONJAI 1
+8214,8 : HoReCa,82 : Restaurant,8214 : ร้านอาหาร อาทิ อาหารลาว / กัมพูชา / พม่า ,Food Service,HORECA,DONJAI 1
+8215,8 : HoReCa,82 : Restaurant,8215 : ร้านขายโจ้ก/ ต้มเลือดหมู,Food Service,HORECA,DONJAI 1
+8216,8 : HoReCa,82 : Restaurant,8216 : ร้าน-รถเข็นขายข้าวแกงกลางเหนือใต้/ตามสั่ง/กับข้าว/แกงถุง,Food Service,HORECA,DONJAI 1
+8217,8 : HoReCa,82 : Restaurant,8217 : รถเข็นขายอาหารประเภทอื่นๆ ผลไม้ดอง/ขนม /ปาท่องโก๋/ขนมครก/ข้าวถ้วย,Food Service,HORECA,DONJAI 1
+8218,8 : HoReCa,82 : Restaurant,8218 : ร้าน-รถเข็น ไก่ทอด/หมูทอด/หมูปิ้ง/ไก่ปิ้ง/ลูกชิ้น,Food Service,HORECA,DONJAI 1
+8301,8 : HoReCa,83 : Catering,8301 : ธุรกิจจัดเลี้ยง โต๊ะจีน,Food Service,HORECA,DONJAI 1
+8401,8 : HoReCa,84 : Food Chain,8401 : ร้านอาหารฟาสต์ฟู้ด(อาหารคาว) แบบมีสาขา,Food Service,HORECA,DONJAI 1
+8402,8 : HoReCa,84 : Food Chain,8402 : ร้านอาหารฟาสต์ฟู้ด(อาหารว่าง/ไอศกรีม )แบบมีสาขา,Food Service,HORECA,DONJAI 1
+8501,8 : HoReCa,85 : Cafe & Coffee,8501 : ร้านเบเกอร์รี่,Food Service,HORECA,DONJAI 1
+8502,8 : HoReCa,85 : Cafe & Coffee,8502 : ร้าน-รถเข็นขายกาแฟ/น้ำปั่น/น้ำผลไม้/ชานมไข่มุก,Food Service,HORECA,DONJAI 1
+8503,8 : HoReCa,85 : Cafe & Coffee,8503 : ร้านขายอาหารประเภทอื่นๆ อาทิ ร้านขายขนม/ร้านขายไอศครีม,Food Service,HORECA,DONJAI 1
+8601,8 : HoReCa,86 : Entertainment,8601 : สถานบันเทิง ผับ/บาร์/คาราโอเกะ/อาบอบนวด,Food Service,HORECA,DONJAI 1
+9101,9 : Services,91 : Service business,9101 : ร้านเสริมสวย/ทำผม,Wholesale,B2B-SERVICES,B2B
+9102,9 : Services,91 : Service business,9102 : ร้านสปา /  บริการนวด,Wholesale,B2B-SERVICES,B2B
+9103,9 : Services,91 : Service business,9103 : ร้านซักอบรีด,Wholesale,B2B-SERVICES,B2B
+9104,9 : Services,91 : Service business,9104 : ร้านถ่ายรูป/ถ่าย เอกสาร,Wholesale,B2B-SERVICES,B2B
+9105,9 : Services,91 : Service business,9105 : ธุรกิจจัดการท่องเที่ยว/ทัวร์/สายการบิน,Wholesale,B2B-SERVICES,B2B
+9106,9 : Services,91 : Service business,9106 : ร้านให้บริการดูแลสัตว์เลี้ยง/คลีนิคสัตว์,Wholesale,B2B-SERVICES,B2B
+9107,9 : Services,91 : Service business,9107 : ธุรกิจบริการอื่นๆ อู่ซ่อมรถ/ทำเบาะ/โรงกลึง/เหล็กตัด/ปั๊มน้ำมัน/ตัดเสื้อ/โรงพิมพ์/ธุรกิจก่อสร้าง/ซ่อมเครื่องใช้ไฟฟ้า,Wholesale,B2B-SERVICES,B2B
+9201,9 : Services,92 : Organization,9201 : สถานพยาบาล (โรงพยาบาล/อนามัย/คลินิก),Wholesale,B2B-SERVICES,B2B
+9202,9 : Services,92 : Organization,9202 : สำนักงานหน่วยราชการ/รัฐวิสาหกิจ,Wholesale,B2B-SERVICES,B2B
+9203,9 : Services,92 : Organization,9203 : วัด/สุเหร่า/โบสถ์,Wholesale,B2B-SERVICES,B2B
+9204,9 : Services,92 : Organization,9204 : โรงเรียน/วิทยาลัย,Wholesale,B2B-SERVICES,B2B
+9205,9 : Services,92 : Organization,9205 : มหาวิทยาลัย (ปริญญาตรี /โท/เอก ),Wholesale,B2B-SERVICES,B2B
+9206,9 : Services,92 : Organization,9206 : มูลนิธิ/สมาคม/โรตารี่,Wholesale,B2B-SERVICES,B2B
+9301,9 : Services,93 : Company,9301 : สำนักงานเอกชน,Wholesale,B2B-SERVICES,B2B
+9302,9 : Services,93 : Company,9302 : สถาบันการศึกษาในรูปแบบอื่นๆ อาทิ  สถาบันกวดวิชา /สอนภาษา/วิชาชีพ,Wholesale,B2B-SERVICES,B2B
+9303,9 : Services,93 : Company,9303 : ธุรกิจในเครือหรือบริษัทฯที่เกี่ยวข้องในกลุ่ม ทีซีซี,Wholesale,B2B-SERVICES,B2B
+9304,9 : Services,93 : Company,9304 : สถาบันการเงิน / สถานฑูต / ศูนย์ศิลปาชีพ / ธนาคาร / สหกรณ์เครดิตยูเนียน,Wholesale,B2B-SERVICES,B2B
+9305,9 : Services,93 : Company,9305 : คาร์แคร์,Wholesale,B2B-SERVICES,B2B
+9401,9 : Services,94 : Manufacturing,9401 : โรงงานผลิต/แปรรูป สินค้าบริโภคแห้ง สด/อุปโภค,Wholesale,B2B-SERVICES,B2B
+1011,10 : Distributor,101 : Food,1011 : ร้านค้าส่ง/ยี่ปั๊ว สินค้าบริโภค,Wholesale,B2B-DISTRIBUTOR,B2B
+1012,10 : Distributor,101 : Food,1012 : ร้านค้าส่ง/ยี่ปั๊ว สินค้าอาหารสด,Wholesale,B2B-DISTRIBUTOR,B2B
+1013,10 : Distributor,101 : Food,1013 : ร้านค้าส่ง/ยี่ปั๊ว สินค้าบริโภค/อุปโภค,Wholesale,B2B-DISTRIBUTOR,B2B
+1014,10 : Distributor,101 : Food,1014 : ร้านค้าส่ง/ยี่ปั๊ว สินค้าเครื่องดื่มแอลกอฮอลล์/บุหรี่,Wholesale,B2B-DISTRIBUTOR,B2B
+1015,10 : Distributor,101 : Food,1015 : ร้านค้าส่ง/ยี่ปั๊ว สินค้าอาหารแช่แข็ง/เย็น,Wholesale,B2B-DISTRIBUTOR,B2B
+1021,10 : Distributor,102 : Non Food,1021 : ร้านค้าส่ง/ยี่ปั๊ว สินค้าอุปโภค/เครื่องใช้ไฟฟ้า,Wholesale,B2B-DISTRIBUTOR,B2B
+1031,10 : Distributor,103 : Import&Export,1031 : ผู้ประกอบการธุรกิจส่งออก (ซื้อสินค้าเพื่อจำหน่ายไปยังต่างประเทศ),Wholesale,B2B-DISTRIBUTOR,B2B
+1111,11 : Corporate,111 : Corporate Group,1111 : ธุรกิจในเครือหรือบริษัทฯที่เกี่ยวข้องในกลุ่ม ทีซีซี,Wholesale,B2B-CORPORATE,B2B
+1112,11 : Corporate,111 : Corporate Group,1112 : ผู้ประกอบการธุรกิจส่งออกในกลุ่ม ทีซีซี (ซื้อสินค้าเพื่อจำหน่ายไปยังต่างประเทศ),Wholesale,B2B-CORPORATE,B2B
+1113,11 : Corporate,111 : Corporate Group,1113 : ธุรกิจหรือบริษัทฯนอกกลุ่ม ทีซีซี,Wholesale,B2B-CORPORATE,B2B
+1114,11 : Corporate,111 : Corporate Group,1114 : กลุ่มธุรกิจพัฒนาอสังหาริมทรัพย์,Wholesale,B2B-CORPORATE,B2B
+1115,11 : Corporate,111 : Corporate Group,1115 : กลุ่มธุรกิจส่งเสริมการตลาด,Wholesale,B2B-CORPORATE,B2B
+1116,11 : Corporate,111 : Corporate Group,1116 : กลุ่มธุรกิจอื่น ๆ ,Wholesale,B2B-CORPORATE,B2B
+1211,12 : Meechok,121 : Meechok,1211 : Meechok,Wholesale,MEECHOK,DONJAI 1
+1411,14 : Donjai Shop,141 : Donjai Shop 2.3.6,1411 : ร้านค้า Donjai Size XS,Wholesale,DONJAI 2.3.6,DONJAI X
+1412,14 : Donjai Shop,141 : Donjai Shop 2.3.6,1412 : ร้านค้า Donjai Size S,Wholesale,DONJAI 2.3.6,DONJAI X
+1413,14 : Donjai Shop,141 : Donjai Shop 2.3.6,1413 : ร้านค้า Donjai Size M,Wholesale,DONJAI 2.3.6,DONJAI X
+1414,14 : Donjai Shop,141 : Donjai Shop 2.3.6,1414 : ร้านค้า Donjai Size L,Wholesale,DONJAI 2.3.6,DONJAI X
+1415,14 : Donjai Shop,141 : Donjai Shop 2.3.6,1415 : ร้านค้า Dummy,Wholesale,DONJAI 2.3.6,DONJAI X
+1421,14 : Donjai Shop,142 : Donjai Shop 2.5.8,1421 : ร้านค้า Donjai Size XS,Wholesale,DONJAI 2.5.8,DONJAI X
+1422,14 : Donjai Shop,142 : Donjai Shop 2.5.8,1422 : ร้านค้า Donjai Size S,Wholesale,DONJAI 2.5.8,DONJAI X
+1423,14 : Donjai Shop,142 : Donjai Shop 2.5.8,1423 : ร้านค้า Donjai Size M,Wholesale,DONJAI 2.5.8,DONJAI X
+1424,14 : Donjai Shop,142 : Donjai Shop 2.5.8,1424 : ร้านค้า Donjai Size L,Wholesale,DONJAI 2.5.8,DONJAI X
+1425,14 : Donjai Shop,142 : Donjai Shop 2.5.8,1425 : ร้านค้า Dummy,Wholesale,DONJAI 2.5.8,DONJAI X
+1431,14 : Donjai Shop,143 : Donjai Shop 4.1.1,1431 : ร้านค้า Donjai Size A,Wholesale,DONJAI 4.1.1,DONJAI X
+1432,14 : Donjai Shop,143 : Donjai Shop 4.1.1,1432 : ร้านค้า Donjai Size B,Wholesale,DONJAI 4.1.1,DONJAI X
+1433,14 : Donjai Shop,143 : Donjai Shop 4.1.1,1433 : ร้านค้า Donjai Size C,Wholesale,DONJAI 4.1.1,DONJAI X
+1434,14 : Donjai Shop,143 : Donjai Shop 4.1.1,1434 : ร้านค้า Donjai Size D,Wholesale,DONJAI 4.1.1,DONJAI X
+1435,14 : Donjai Shop,143 : Donjai Shop 4.1.1,1435 : ร้านค้า Dummy,Wholesale,DONJAI 4.1.1,DONJAI X
+1441,14 : Donjai Shop,144 : Donjai Shop 4.1.3,1441 : ร้านค้า Donjai Size A,Wholesale,DONJAI 4.1.3,DONJAI X
+1442,14 : Donjai Shop,144 : Donjai Shop 4.1.3,1442 : ร้านค้า Donjai Size B,Wholesale,DONJAI 4.1.3,DONJAI X
+1443,14 : Donjai Shop,144 : Donjai Shop 4.1.3,1443 : ร้านค้า Donjai Size C,Wholesale,DONJAI 4.1.3,DONJAI X
+1444,14 : Donjai Shop,144 : Donjai Shop 4.1.3,1444 : ร้านค้า Donjai Size D,Wholesale,DONJAI 4.1.3,DONJAI X
+1445,14 : Donjai Shop,144 : Donjai Shop 4.1.3,1445 : ร้านค้า Dummy,Wholesale,DONJAI 4.1.3,DONJAI X
+1451,14 : Donjai Shop,145 : Donjai Shop 4.3.5,1451 : ร้านค้า Donjai Size A,Wholesale,DONJAI 4.3.5,DONJAI X
+1452,14 : Donjai Shop,145 : Donjai Shop 4.3.5,1452 : ร้านค้า Donjai Size B,Wholesale,DONJAI 4.3.5,DONJAI X
+1453,14 : Donjai Shop,145 : Donjai Shop 4.3.5,1453 : ร้านค้า Donjai Size C,Wholesale,DONJAI 4.3.5,DONJAI X
+1454,14 : Donjai Shop,145 : Donjai Shop 4.3.5,1454 : ร้านค้า Donjai Size D,Wholesale,DONJAI 4.3.5,DONJAI X
+1455,14 : Donjai Shop,145 : Donjai Shop 4.3.5,1455 : ร้านค้า Dummy,Wholesale,DONJAI 4.3.5,DONJAI X
+1461,14 : Donjai Shop,146 : Donjai Shop 4.5.7,1461 : ร้านค้า Donjai Size A,Wholesale,DONJAI 4.5.7,DONJAI X
+1462,14 : Donjai Shop,146 : Donjai Shop 4.5.7,1462 : ร้านค้า Donjai Size B,Wholesale,DONJAI 4.5.7,DONJAI X
+1463,14 : Donjai Shop,146 : Donjai Shop 4.5.7,1463 : ร้านค้า Donjai Size C,Wholesale,DONJAI 4.5.7,DONJAI X
+1464,14 : Donjai Shop,146 : Donjai Shop 4.5.7,1464 : ร้านค้า Donjai Size D,Wholesale,DONJAI 4.5.7,DONJAI X
+1465,14 : Donjai Shop,146 : Donjai Shop 4.5.7,1465 : ร้านค้า Dummy,Wholesale,DONJAI 4.5.7,DONJAI X
+1511,15 : Donjai-B2B,151 : Donjai-B2B,1511 : Donjai-B2B,Wholesale,DONJAI-B2B,B2B
+1611,16 : Donjai Shop 5,161 : Donjai Shop 5,1611 : ร้านค้า Donjai Size A,Wholesale,DONJAI 5,DONJAI X
+1612,16 : Donjai Shop 5,161 : Donjai Shop 5,1612 : ร้านค้า Donjai Size B,Wholesale,DONJAI 5,DONJAI X
+1613,16 : Donjai Shop 5,161 : Donjai Shop 5,1613 : ร้านค้า Donjai Size C,Wholesale,DONJAI 5,DONJAI X
+1614,16 : Donjai Shop 5,161 : Donjai Shop 5,1614 : ร้านค้า Donjai Size D,Wholesale,DONJAI 5,DONJAI X
+1615,16 : Donjai Shop 5,161 : Donjai Shop 5,1615 : ร้านค้า Dummy,Wholesale,DONJAI 5,DONJAI X
+1711,17 : Donjai Shop 1.5,171 : Donjai Shop 1.5 DJ POS,1711 : Donjai Shop 1.5,Wholesale,DONJAI 1.5,DONJAI X
+1712,17 : Donjai Shop 1.5,171 : Donjai Shop 1.5 DJ POS,1712 : Donjai Shop 1.5 I,Wholesale,DONJAI 1.5,DONJAI X
+1713,17 : Donjai Shop 1.5,171 : Donjai Shop 1.5 DJ POS,1713 : Donjai Shop 1.5 A,Wholesale,DONJAI 1.5,DONJAI X
+1714,17 : Donjai Shop 1.5,171 : Donjai Shop 1.5 DJ POS,1714 : Donjai Shop 1.5 IA,Wholesale,DONJAI 1.5,DONJAI X
+1715,17 : Donjai Shop 1.5,171 : Donjai Shop 1.5 DJ POS,1715 : Donjai Shop 1.5 AB,Wholesale,DONJAI 1.5,DONJAI X
+1716,17 : Donjai Shop 1.5,171 : Donjai Shop 1.5 DJ POS,1716 : Donjai Shop 1.5 IAB,Wholesale,DONJAI 1.5,DONJAI X
+1717,17 : Donjai Shop 1.5,171 : Donjai Shop 1.5 DJ POS,1717 : ร้านค้า Dummy,Wholesale,DONJAI 1.5,DONJAI X
+1721,17 : Donjai Shop 1.5,172 : Donjai Shop 1.5 XS,1721 : Donjai Shop 1.5 XS,Wholesale,DONJAI 1.5,DONJAI X
+1722,17 : Donjai Shop 1.5,172 : Donjai Shop 1.5 XS,1722 : Donjai Shop 1.5 XSA,Wholesale,DONJAI 1.5,DONJAI X
+1723,17 : Donjai Shop 1.5,172 : Donjai Shop 1.5 XS,1723 : Donjai Shop 1.5 XSAB,Wholesale,DONJAI 1.5,DONJAI X
+1724,17 : Donjai Shop 1.5,172 : Donjai Shop 1.5 XS,1724 : Donjai Shop 1.5 IXS,Wholesale,DONJAI 1.5,DONJAI X
+1725,17 : Donjai Shop 1.5,172 : Donjai Shop 1.5 XS,1725 : Donjai Shop 1.5 IXSA,Wholesale,DONJAI 1.5,DONJAI X
+1726,17 : Donjai Shop 1.5,172 : Donjai Shop 1.5 XS,1726 : Donjai Shop 1.5 IXSAB,Wholesale,DONJAI 1.5,DONJAI X
+1727,17 : Donjai Shop 1.5,172 : Donjai Shop 1.5 XS,1727 : ร้านค้า Dummy,Wholesale,DONJAI 1.5,DONJAI X
+1731,17 : Donjai Shop 1.5,173 : Donjai Shop 1.5 System,1731 : Donjai Shop 1.5 S,Wholesale,DONJAI 1.5,DONJAI X
+1732,17 : Donjai Shop 1.5,173 : Donjai Shop 1.5 System,1732 : Donjai Shop 1.5 SA,Wholesale,DONJAI 1.5,DONJAI X
+1733,17 : Donjai Shop 1.5,173 : Donjai Shop 1.5 System,1733 : Donjai Shop 1.5 SAB,Wholesale,DONJAI 1.5,DONJAI X
+1734,17 : Donjai Shop 1.5,173 : Donjai Shop 1.5 System,1734 : ร้านค้า Dummy,Wholesale,DONJAI 1.5,DONJAI X
+1811,18 : HoReCa Food Services,181 : FS_Hotel,1811 : FS_อพาร์ทเมนท์ / หอพัก,Food Service,FS HORECA,FOOD SERVICES
+1812,18 : HoReCa Food Services,181 : FS_Hotel,1812 : FS_โรงแรม/รีสอร์ต 1 ดาว,Food Service,FS HORECA,FOOD SERVICES
+1813,18 : HoReCa Food Services,181 : FS_Hotel,1813 : FS_โรงแรม/รีสอร์ต 2-3 ดาว,Food Service,FS HORECA,FOOD SERVICES
+1814,18 : HoReCa Food Services,181 : FS_Hotel,1814 : FS_โรงแรม/รีสอร์ต 4-5 ดาว,Food Service,FS HORECA,FOOD SERVICES
+1821,18 : HoReCa Food Services,182 : FS_Restaurant,1821 : FS_ร้านอาหารไทย,Food Service,FS HORECA,FOOD SERVICES
+1822,18 : HoReCa Food Services,182 : FS_Restaurant,1822 : FS_ร้านอาหารอีสาน,Food Service,FS HORECA,FOOD SERVICES
+1823,18 : HoReCa Food Services,182 : FS_Restaurant,1823 : FS_ร้านอาหารจีน,Food Service,FS HORECA,FOOD SERVICES
+1824,18 : HoReCa Food Services,182 : FS_Restaurant,1824 : FS_ร้านอาหารเวียดนาม,Food Service,FS HORECA,FOOD SERVICES
+1825,18 : HoReCa Food Services,182 : FS_Restaurant,1825 : FS_ร้านอาหารญี่ปุ่น,Food Service,FS HORECA,FOOD SERVICES
+1826,18 : HoReCa Food Services,182 : FS_Restaurant,1826 : FS_ร้านอาหารเกาหลี,Food Service,FS HORECA,FOOD SERVICES
+1827,18 : HoReCa Food Services,182 : FS_Restaurant,1827 : FS_ร้านอาหารอินเดีย,Food Service,FS HORECA,FOOD SERVICES
+1828,18 : HoReCa Food Services,182 : FS_Restaurant,1828 : FS_ร้านอาหารมุสลิม,Food Service,FS HORECA,FOOD SERVICES
+1829,18 : HoReCa Food Services,182 : FS_Restaurant,1829 : FS_ร้านอาหารตะวันตก อาทิ สเต๊ก/อเมริกัน/อิตาเลี่ยน/แม็กซิกัน/อิสราเอล/ฝรั่งเศส,Food Service,FS HORECA,FOOD SERVICES
+1831,18 : HoReCa Food Services,183 : FS_Restaurant 2,1831 : FS_ร้านหมูกระทะ/บาร์บีคิว/สุกี้/เนื้อย่าง/ชาบู,Food Service,FS HORECA,FOOD SERVICES
+1832,18 : HoReCa Food Services,183 : FS_Restaurant 2,1832 : FS_ร้านอาหารตามสั่ง,Food Service,FS HORECA,FOOD SERVICES
+1833,18 : HoReCa Food Services,183 : FS_Restaurant 2,1833 : FS_ร้านอาหารประเภทก๋วยเตี๋ยว/ผ้ดไท/ราดหน้า/ก๋วยจั๊บ,Food Service,FS HORECA,FOOD SERVICES
+1834,18 : HoReCa Food Services,183 : FS_Restaurant 2,1834 : FS_ร้านอาหารจานหลัก อาทิ ข้าวมันไก่-ข้าวขาหมู-หน้าเป็ด,Food Service,FS HORECA,FOOD SERVICES
+1835,18 : HoReCa Food Services,183 : FS_Restaurant 2,1835 : FS_ร้านอาหาร อาทิ อาหารลาว / กัมพูชา / พม่า ,Food Service,FS HORECA,FOOD SERVICES
+1836,18 : HoReCa Food Services,183 : FS_Restaurant 2,1836 : FS_ร้านขายโจ้ก/ ต้มเลือดหมู,Food Service,FS HORECA,FOOD SERVICES
+1837,18 : HoReCa Food Services,183 : FS_Restaurant 2,1837 : FS_ร้าน-รถเข็นขายข้าวแกงกลางเหนือใต้/ตามสั่ง/กับข้าว/แกงถุง,Food Service,FS HORECA,FOOD SERVICES
+1838,18 : HoReCa Food Services,183 : FS_Restaurant 2,1838 : FS_รถเข็นขายอาหารประเภทอื่นๆ ผลไม้ดอง/ขนม /ปาท่องโก๋/ขนมครก/ข้าวถ้วย,Food Service,FS HORECA,FOOD SERVICES
+1839,18 : HoReCa Food Services,183 : FS_Restaurant 2,1839 : FS_ร้าน-รถเข็น ไก่ทอด/หมูทอด/หมูปิ้ง/ไก่ปิ้ง/ลูกชิ้น,Food Service,FS HORECA,FOOD SERVICES
+1841,18 : HoReCa Food Services,184 : FS_Catering,1841 : FS_ธุรกิจจัดเลี้ยง โต๊ะจีน,Food Service,FS HORECA,FOOD SERVICES
+1851,18 : HoReCa Food Services,185 : FS_Food Chain,1851 : FS_ร้านอาหารฟาสต์ฟู้ด(อาหารคาว) แบบมีสาขา,Food Service,FS HORECA,FOOD SERVICES
+1852,18 : HoReCa Food Services,185 : FS_Food Chain,1852 : FS_ร้านอาหารฟาสต์ฟู้ด(อาหารว่าง/ไอศกรีม )แบบมีสาขา,Food Service,FS HORECA,FOOD SERVICES
+1861,18 : HoReCa Food Services,186 : FS_Cafe & Coffee,1861 : FS_ร้านเบเกอร์รี่,Food Service,FS HORECA,FOOD SERVICES
+1862,18 : HoReCa Food Services,186 : FS_Cafe & Coffee,1862 : FS_ร้าน-รถเข็นขายกาแฟ/น้ำปั่น/น้ำผลไม้/ชานมไข่มุก,Food Service,FS HORECA,FOOD SERVICES
+1863,18 : HoReCa Food Services,186 : FS_Cafe & Coffee,1863 : FS_ร้านขายอาหารประเภทอื่นๆ อาทิ ร้านขายขนม/ร้านขายไอศครีม,Food Service,FS HORECA,FOOD SERVICES
+1871,18 : HoReCa Food Services,187 : FS_Entertainment,1871 : FS_สถานบันเทิง ผับ/บาร์/คาราโอเกะ/อาบอบนวด,Food Service,FS HORECA,FOOD SERVICES
+1911,19 : Donjai Shop 6,191 : Donjai Shop 6 DJ POS,1911 : Donjai Shop 6,Wholesale,DONJAI 6,DONJAI X
+1912,19 : Donjai Shop 6,191 : Donjai Shop 6 DJ POS,1912 : Donjai Shop 6 A,Wholesale,DONJAI 6,DONJAI X
+1913,19 : Donjai Shop 6,191 : Donjai Shop 6 DJ POS,1913 : Donjai Shop 6 AB,Wholesale,DONJAI 6,DONJAI X
+1914,19 : Donjai Shop 6,191 : Donjai Shop 6 DJ POS,1914 : ร้านค้า Dummy,Wholesale,DONJAI 6,DONJAI X
+1921,19 : Donjai Shop 6,192 : Donjai Shop 6 XS,1921 : Donjai Shop 6 XS,Wholesale,DONJAI 6,DONJAI X
+1922,19 : Donjai Shop 6,192 : Donjai Shop 6 XS,1922 : Donjai Shop 6 XSA,Wholesale,DONJAI 6,DONJAI X
+1923,19 : Donjai Shop 6,192 : Donjai Shop 6 XS,1923 : Donjai Shop 6 XSAB,Wholesale,DONJAI 6,DONJAI X
+2011,20 : FS_Food Retailer,201 : FS_Street Shop,2011 : FS_ร้าน/แผงลอย ผัก/ผลไม้/แปรรูปจากผัก ผลไม้,Wholesale,FS FOOD RETAILER,FOOD SERVICES
+2012,20 : FS_Food Retailer,201 : FS_Street Shop,2012 : FS_ร้าน/แผงลอย เนื้อสัตว์/แปรรูปจากเนื้อสัตว์,Wholesale,FS FOOD RETAILER,FOOD SERVICES
+2013,20 : FS_Food Retailer,201 : FS_Street Shop,2013 : FS_ร้านค้าอาหารแช่แข็ง/แช่เย็น,Wholesale,FS FOOD RETAILER,FOOD SERVICES
+2021,20 : FS_Food Retailer,202 : FS_SME-Grocery shop,2021 : FS_ร้านชำ/แผงขายชำ ขนาดน้อยกว่า 200ตรม.,Wholesale,FS FOOD RETAILER,FOOD SERVICES
+2022,20 : FS_Food Retailer,202 : FS_SME-Grocery shop,2022 : FS_ร้านขายยา และ เครื่องสำอาง,Wholesale,FS FOOD RETAILER,FOOD SERVICES
+2023,20 : FS_Food Retailer,202 : FS_SME-Grocery shop,2023 : FS_ร้านขายอาหาร ยาสัตว์ อุปกรณ์ และของใช้เกี่ยวกับสัตว์เลี้ยง,Wholesale,FS FOOD RETAILER,FOOD SERVICES
+2024,20 : FS_Food Retailer,202 : FS_SME-Grocery shop,2024 : FS_ร้านมินิมาร์ท มีกระจกหน้าร้าน มี/ไม่มีแอร์ มีเคาน์เตอร์และชั้นเรียง,Wholesale,FS FOOD RETAILER,FOOD SERVICES
+2025,20 : FS_Food Retailer,202 : FS_SME-Grocery shop,2025 : FS_ซุปเปอร์มาร์เก็ต ขนาดมากกว่า 200ตรม. มีกระจก มีแอร์ มีเคาน์เตอร์ และรถเข็น,Wholesale,FS FOOD RETAILER,FOOD SERVICES
+2026,20 : FS_Food Retailer,202 : FS_SME-Grocery shop,2026 : FS_ร้านค้าปลีกสินค้าบริโภค / อาหารสด ในรูปแบบรถเร่,Wholesale,FS FOOD RETAILER,FOOD SERVICES
+2027,20 : FS_Food Retailer,202 : FS_SME-Grocery shop,2027 : FS_ร้านค้าปลีกสินค้าบริโภคอื่นๆ/ ร้านโอท็อป-ของฝากสินค้าบริโภค,Wholesale,FS FOOD RETAILER,FOOD SERVICES
+2111,21 : FS_Non Food Retailer,211 : FS-Business User,2111 : FS_ร้านขายมอเตอร์ไซต์/อะไหล่/ซ่อม,Wholesale,FS NON FOOD RETAILER,FOOD SERVICES
+2112,21 : FS_Non Food Retailer,211 : FS-Business User,2112 : FS_ร้านขายจักรยาน/อะไหล่/ซ่อม,Wholesale,FS NON FOOD RETAILER,FOOD SERVICES
+2113,21 : FS_Non Food Retailer,211 : FS-Business User,2113 : FS_ร้านโชว์รูมขายรถยนต์/ประดับยนต์,Wholesale,FS NON FOOD RETAILER,FOOD SERVICES
+2114,21 : FS_Non Food Retailer,211 : FS-Business User,2114 : FS_ร้านขายอุปกรณ์ก่อสร้าง,Wholesale,FS NON FOOD RETAILER,FOOD SERVICES
+2115,21 : FS_Non Food Retailer,211 : FS-Business User,2115 : FS_ร้านขายเสื้อผ้าเย็บปัก,Wholesale,FS NON FOOD RETAILER,FOOD SERVICES
+2116,21 : FS_Non Food Retailer,211 : FS-Business User,2116 : FS_ร้านเพชรทอง,Wholesale,FS NON FOOD RETAILER,FOOD SERVICES
+2121,21 : FS_Non Food Retailer,212 : FS_SME-Non food shop,2121 : FS_ร้านขายเครื่องเขียน อุปกรณ์การเรียน,Wholesale,FS NON FOOD RETAILER,FOOD SERVICES
+2122,21 : FS_Non Food Retailer,212 : FS_SME-Non food shop,2122 : FS_ร้านขายอุปกรณ์ และเครื่องใช้สำนักงาน ขายคอมพิวเตอร์,Wholesale,FS NON FOOD RETAILER,FOOD SERVICES
+2123,21 : FS_Non Food Retailer,212 : FS_SME-Non food shop,2123 : FS_ร้านขายเครื่องใช้ไฟฟ้า,Wholesale,FS NON FOOD RETAILER,FOOD SERVICES
+2124,21 : FS_Non Food Retailer,212 : FS_SME-Non food shop,2124 : FS_ร้านขายสินค้าอุปโภค ในรูแบบรถเร่,Wholesale,FS NON FOOD RETAILER,FOOD SERVICES
+2125,21 : FS_Non Food Retailer,212 : FS_SME-Non food shop,2125 : FS_ร้านค้าปลีกสินค้าบริโภคอื่นๆ / ร้านโอท็อป- ของฝากสินค้าอุปโภค/ร้านสังฆภัณฑ์,Wholesale,FS NON FOOD RETAILER,FOOD SERVICES
+2126,21 : FS_Non Food Retailer,212 : FS_SME-Non food shop,2126 : FS_ร้านขายเฟอร์นิเจอร์เครื่องนอน,Wholesale,FS NON FOOD RETAILER,FOOD SERVICES
+2127,21 : FS_Non Food Retailer,212 : FS_SME-Non food shop,2127 : FS_ร้านขายโฟม ถุงพลาสติก ยาง หลอด บรรจุภัณฑ์,Wholesale,FS NON FOOD RETAILER,FOOD SERVICES
+2128,21 : FS_Non Food Retailer,212 : FS_SME-Non food shop,2128 : FS_ร้านขายอุปโภคอื่นๆ,Wholesale,FS NON FOOD RETAILER,FOOD SERVICES
+2129,21 : FS_Non Food Retailer,212 : FS_SME-Non food shop,2129 : FS_ร้านขายปุ๋ย/สินค้าเกี่ยวกับการเกษตร/ผลิตภัณฑ์การเกษตร,Wholesale,FS NON FOOD RETAILER,FOOD SERVICES
+2211,22 : FS_Services,221 : FS_Service business,2211 : FS_ร้านเสริมสวย/ทำผม,Wholesale,FS SERVICES,FOOD SERVICES
+2212,22 : FS_Services,221 : FS_Service business,2212 : FS_ร้านสปา /  บริการนวด,Wholesale,FS SERVICES,FOOD SERVICES
+2213,22 : FS_Services,221 : FS_Service business,2213 : FS_ร้านซักอบรีด,Wholesale,FS SERVICES,FOOD SERVICES
+2214,22 : FS_Services,221 : FS_Service business,2214 : FS_ร้านถ่ายรูป/ถ่าย เอกสาร,Wholesale,FS SERVICES,FOOD SERVICES
+2215,22 : FS_Services,221 : FS_Service business,2215 : FS_ธุรกิจจัดการท่องเที่ยว/ทัวร์/สายการบิน,Wholesale,FS SERVICES,FOOD SERVICES
+2216,22 : FS_Services,221 : FS_Service business,2216 : FS_ร้านให้บริการดูแลสัตว์เลี้ยง/คลีนิคสัตว์,Wholesale,FS SERVICES,FOOD SERVICES
+2217,22 : FS_Services,221 : FS_Service business,2217 : FS_ธุรกิจบริการอื่นๆ อู่ซ่อมรถ/ทำเบาะ/โรงกลึง/เหล็กตัด/ปั๊มน้ำมัน/ตัดเสื้อ/โรงพิมพ์/ธุรกิจก่อสร้าง/ซ่อมเครื่องใช้ไฟฟ้า,Wholesale,FS SERVICES,FOOD SERVICES
+2221,22 : FS_Services,222 : FS_Organization,2221 : FS_สถานพยาบาล (โรงพยาบาล/อนามัย/คลินิก),Wholesale,FS SERVICES,FOOD SERVICES
+2222,22 : FS_Services,222 : FS_Organization,2222 : FS_สำนักงานหน่วยราชการ/รัฐวิสาหกิจ,Wholesale,FS SERVICES,FOOD SERVICES
+2223,22 : FS_Services,222 : FS_Organization,2223 : FS_วัด/สุเหร่า/โบสถ์,Wholesale,FS SERVICES,FOOD SERVICES
+2224,22 : FS_Services,222 : FS_Organization,2224 : FS_โรงเรียน/วิทยาลัย,Wholesale,FS SERVICES,FOOD SERVICES
+2225,22 : FS_Services,222 : FS_Organization,2225 : FS_มหาวิทยาลัย (ปริญญาตรี /โท/เอก ),Wholesale,FS SERVICES,FOOD SERVICES
+2226,22 : FS_Services,222 : FS_Organization,2226 : FS_มูลนิธิ/สมาคม/โรตารี่,Wholesale,FS SERVICES,FOOD SERVICES
+2231,22 : FS_Services,223 : FS_Company,2231 : FS_สำนักงานเอกชน,Wholesale,FS SERVICES,FOOD SERVICES
+2232,22 : FS_Services,223 : FS_Company,2232 : FS_สถาบันการศึกษาในรูปแบบอื่นๆ อาทิ  สถาบันกวดวิชา /สอนภาษา/วิชาชีพ,Wholesale,FS SERVICES,FOOD SERVICES
+2233,22 : FS_Services,223 : FS_Company,2233 : FS_ธุรกิจในเครือหรือบริษัทฯที่เกี่ยวข้องในกลุ่ม ทีซีซี,Wholesale,FS SERVICES,FOOD SERVICES
+2234,22 : FS_Services,223 : FS_Company,2234 : FS_สถาบันการเงิน / สถานฑูต / ศูนย์ศิลปาชีพ / ธนาคาร / สหกรณ์เครดิตยูเนียน,Wholesale,FS SERVICES,FOOD SERVICES
+2235,22 : FS_Services,223 : FS_Company,2235 : FS_คาร์แคร์,Wholesale,FS SERVICES,FOOD SERVICES
+2241,22 : FS_Services,224 : FS_Manufacturing,2241 : FS_โรงงานผลิต/แปรรูป สินค้าบริโภคแห้ง สด/อุปโภค,Wholesale,FS SERVICES,FOOD SERVICES
+2311,23 : FS_Distributor,231 : FS_Food,2311 : FS_ร้านค้าส่ง/ยี่ปั๊ว สินค้าบริโภค,Wholesale,FS DISTRIBUTOR,FOOD SERVICES
+2312,23 : FS_Distributor,231 : FS_Food,2312 : FS_ร้านค้าส่ง/ยี่ปั๊ว สินค้าอาหารสด,Wholesale,FS DISTRIBUTOR,FOOD SERVICES
+2313,23 : FS_Distributor,231 : FS_Food,2313 : FS_ร้านค้าส่ง/ยี่ปั๊ว สินค้าบริโภค/อุปโภค,Wholesale,FS DISTRIBUTOR,FOOD SERVICES
+2314,23 : FS_Distributor,231 : FS_Food,2314 : FS_ร้านค้าส่ง/ยี่ปั๊ว สินค้าเครื่องดื่มแอลกอฮอลล์/บุหรี่,Wholesale,FS DISTRIBUTOR,FOOD SERVICES
+2315,23 : FS_Distributor,231 : FS_Food,2315 : FS_ร้านค้าส่ง/ยี่ปั๊ว สินค้าอาหารแช่แข็ง/เย็น,Wholesale,FS DISTRIBUTOR,FOOD SERVICES
+2321,23 : FS_Distributor,232 : FS_Non Food,2321 : FS_ร้านค้าส่ง/ยี่ปั๊ว สินค้าอุปโภค/เครื่องใช้ไฟฟ้า,Wholesale,FS DISTRIBUTOR,FOOD SERVICES
+2331,23 : FS_Distributor,233 : FS_Import&Export,2331 : FS_ผู้ประกอบการธุรกิจส่งออก (ซื้อสินค้าเพื่อจำหน่ายไปยังต่างประเทศ),Wholesale,FS DISTRIBUTOR,FOOD SERVICES
+2411,24 : FS_Corporate,241 : FS_Corporate Group,2411 : FS_ธุรกิจในเครือหรือบริษัทฯที่เกี่ยวข้องในกลุ่ม ทีซีซี,Wholesale,FS CORPORATE,FOOD SERVICES
+2412,24 : FS_Corporate,241 : FS_Corporate Group,2412 : FS_ผู้ประกอบการธุรกิจส่งออกในกลุ่ม ทีซีซี (ซื้อสินค้าเพื่อจำหน่ายไปยังต่างประเทศ),Wholesale,FS CORPORATE,FOOD SERVICES
+2413,24 : FS_Corporate,241 : FS_Corporate Group,2413 : FS_ธุรกิจหรือบริษัทฯนอกกลุ่ม ทีซีซี,Wholesale,FS CORPORATE,FOOD SERVICES
+2414,24 : FS_Corporate,241 : FS_Corporate Group,2414 : FS_กลุ่มธุรกิจพัฒนาอสังหาริมทรัพย์,Wholesale,FS CORPORATE,FOOD SERVICES
+2415,24 : FS_Corporate,241 : FS_Corporate Group,2415 : FS_กลุ่มธุรกิจส่งเสริมการตลาด,Wholesale,FS CORPORATE,FOOD SERVICES
+2416,24 : FS_Corporate,241 : FS_Corporate Group,2416 : FS_กลุ่มธุรกิจอื่น ๆ ,Wholesale,FS CORPORATE,FOOD SERVICES
