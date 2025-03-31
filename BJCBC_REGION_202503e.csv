@@ -1,0 +1,535 @@
+﻿SITE_NO,BU,Name,Region
+22354,BIGC MINI,"BCM ซ.โรมัน-เปรโต,นครปฐม",01. BKK1
+21312,BIGC MINI,BCM วัดโพธิ์ทอง,01. BKK1
+21826,BIGC MINI,"BCM หมู่บ้านสรัญธร,กรุงเทพมหานคร",01. BKK1
+21295,BIGC MINI,BCM สี่แยกทศกัณฑ์,01. BKK1
+22256,BIGC MINI,"BCM เพชรเกษม 63,กรุงเทพฯ",01. BKK1
+21314,BIGC MINI,BCM เอื้อบางขุนเทียน,01. BKK1
+21439,BIGC MINI,BCM หมู่บ้านหรรษา,01. BKK1
+21236,BIGC MINI,BCM เอื้อฯ หนองแขม,01. BKK1
+21358,BIGC MINI,BCM BCP เพชรเกษม 92,01. BKK1
+21551,BIGC MINI,BCM พุทธบูชา ซอย 36,01. BKK1
+21140,BIGC MINI,BCM BCP บรมฯ กม.15,01. BKK1
+22180,BIGC MINI,"BCM โกลเด้นเพลส บางใหญ่,นนทบุรี",01. BKK1
+21924,BIGC MINI,"BCM เอื้ออาทรวัดกู้,นนทบุรี",01. BKK1
+22639,BIGC MINI,BCM ไลโอ สุขสวัสดิ์-ประชาอุทิศ 90,01. BKK1
+21642,BIGC MINI,BCM สุขสวัสดิ์ 84 ซอยคู่สร้าง,01. BKK1
+21030,BIGC MINI,BCM ซอยหนองใหญ่,01. BKK1
+41022,PURE,PURE อ้อมใหญ่,01. BKK1
+41021,PURE,PURE นครปฐม,01. BKK1
+41032,PURE,PURE ดาวคะนอง,01. BKK1
+41006,PURE,PURE ธนบุรี-ปากท่อ,01. BKK1
+41135,PURE,Pure สาขาบางปะกอก,01. BKK1
+41059,PURE,PURE ราษฎร์บูรณะ,01. BKK1
+41144,PURE,Pure เพชรเกษม 2,01. BKK1
+41136,PURE,Pure กัลปพฤกษ์,01. BKK1
+41033,PURE,PURE แจ้งวัฒนะ,01. BKK1
+41142,PURE,Pure บางบอน,01. BKK1
+41047,PURE,PURE ประชาอุทิศ,01. BKK1
+41145,PURE,Pure อิสรภาพ,01. BKK1
+41166,PURE,Pure เพชรเกษม,01. BKK1
+41004,PURE,PURE รัตนาธิเบศร์,01. BKK1
+41055,PURE,PURE ราชพฤกษ์,01. BKK1
+41184,PURE,PURE ไทรน้อย,01. BKK1
+41186,PURE,PURE ท่าอิฐ,01. BKK1
+41003,PURE,PURE สุขสวัสดิ์,01. BKK1
+41013,PURE,PURE ติวานนท์,01. BKK1
+41102,PURE,PURE รัตนาธิเบศร์ 2,01. BKK1
+41153,PURE,Pure สาขาบางใหญ่,01. BKK1
+41056,PURE,Pure แจ้งวัฒนะ2,01. BKK1
+41175,PURE,Pure ปทุมธานี,01. BKK1
+41191,PURE,PURE พันธุ์ทิพย์ งามวงศ์วาน,01. BKK1
+41178,PURE,PURE เกตเวย์บางโพบางซื่อ,01. BKK1
+22092,BIGC MINI,"BCM อินทามระ 59,กรุงเทพฯ",02. BKK2
+22104,BIGC MINI,"BCM ซอยนาคนิวาส 37,กรุงเทพฯ",02. BKK2
+21254,BIGC MINI,BCM รามคำแหง 53,02. BKK2
+21057,BIGC MINI,BCM วัชรพล,02. BKK2
+22671,BIGC MINI,BCM สุทธิสาร กรุงเทพมหานคร,02. BKK2
+22183,BIGC MINI,BCM ม.เทคโนโลยีราชมงคล กรุงเทพ,02. BKK2
+22514,BIGC MINI,"BCM ศูนย์ฯสิริกิติ์,กรุงเทพฯ",02. BKK2
+21051,BIGC MINI,BCM วัดนาวง,02. BKK2
+21518,BIGC MINI,BCM กาญจนาภิเษก 39,02. BKK2
+21059,BIGC MINI,BCM เอื้ออาทรบางเขน,02. BKK2
+21317,BIGC MINI,BCM คูขวาง 6,02. BKK2
+22176,BIGC MINI,"BCM เคหะธัญบุรี,ปทุมธานี",02. BKK2
+21033,BIGC MINI,BCM รัตนโกสินทร์,02. BKK2
+41119,PURE,PURE สาขาลาดพร้าว 2,02. BKK2
+41167,PURE,Pure หัวหมาก,02. BKK2
+41038,PURE,PURE บางนา,02. BKK2
+41046,PURE,PURE สวนหลวง,02. BKK2
+41146,PURE,Pure อ่อนนุช,02. BKK2
+41182,PURE,PURE สามย่านมิตรทาวน์,02. BKK2
+41198,PURE,PURE เอเชียทีค,02. BKK2
+41194,PURE,Pure รัชดาภิเษก2,02. BKK2
+41039,PURE,PURE ดอนเมือง,02. BKK2
+41141,PURE,Pure ร่มเกล้า,02. BKK2
+41031,PURE,PURE ราชดำริ 2,02. BKK2
+41139,PURE,Pure รามอินทรา,02. BKK2
+41080,PURE,PURE ลาดพร้าว,02. BKK2
+41016,PURE,PURE สะพานควาย,02. BKK2
+41126,PURE,PURE สาขาเอกมัย,02. BKK2
+41156,PURE,Pure สาขาพระราม 4,02. BKK2
+41157,PURE,Pure สาขารัชดาภิเษก,02. BKK2
+41108,PURE,PURE สายไหม,02. BKK2
+41177,PURE,Pure ราชดำริ 3,02. BKK2
+41083,PURE,PURE นวนคร,02. BKK2
+41040,PURE,PURE ลำลูกกา,02. BKK2
+41195,PURE,PURE รังสิต คลอง 3,02. BKK2
+41065,PURE,PURE รังสิต2,02. BKK2
+41200,PURE,"PURE วัน แบงค๊อก ,กรุงเทพฯ",02. BKK2
+41114,PURE,PURE แฟชั่นไอซ์แลนด์,02. BKK2
+41138,PURE,Pure สาขาสุขาภิบาล 32,02. BKK2
+41084,PURE,PURE คู้บอน,02. BKK2
+41071,PURE,PURE รังสิตคลองหก,02. BKK2
+41001,PURE,PURE สาขาที่ 3,02. BKK2
+41111,PURE,PURE สาขาศรีนครินทร์,02. BKK2
+22564,BIGC MINI,BCM ถ.มหาราช จันทบุรี,03. BKK3
+22636,BIGC MINI,BCM รักศักดิ์ชมูล22 จันทบุรี,03. BKK3
+22122,BIGC MINI,"BCM เคหะจันทบุรี1,จันทบุรี",03. BKK3
+21238,BIGC MINI,BCM BCP บายพาส กม 13,03. BKK3
+21330,BIGC MINI,BCM BCP บายพาสชลบุรี กม.1,03. BKK3
+21163,BIGC MINI,BCM นาพร้าว,03. BKK3
+22583,BIGC MINI,BCM ถ.ข้าวหลาม ชลบุรี,03. BKK3
+22664,BIGC MINI,BCM ถ.บางแสน สาย2 ชลบุรี,03. BKK3
+22006,BIGC MINI,"BCM เก้ากิโลซอย 31,ชลบุรี",03. BKK3
+21989,BIGC MINI,"BCM ถนนบางแสนล่าง,ชลบุรี",03. BKK3
+21777,BIGC MINI,"BCM พัทยาสาย 3,ชลบุรี",03. BKK3
+21483,BIGC MINI,BCM มาบมะยม,03. BKK3
+21259,BIGC MINI,BCM ห้วยใหญ่,03. BKK3
+21053,BIGC MINI,BCM แหลมฟ้าผ่า,03. BKK3
+21083,BIGC MINI,BCM นิคมบางปู,03. BKK3
+22021,BIGC MINI,"BCM บางหัวเสือ,สมุทรปราการ",03. BKK3
+22099,BIGC MINI,"BCM คู้คลองเก้า,กรุงเทพฯ",03. BKK3
+15043,MARKET,สาขา BMK นาป่า,03. BKK3
+41050,PURE,PURE จันทบุรี,03. BKK3
+41041,PURE,PURE ชลบุรี,03. BKK3
+41100,PURE,PURE ชลบุรี 2,03. BKK3
+41097,PURE,PURE ชลบุรี 3 เซ็นทรัล,03. BKK3
+41048,PURE,PURE บ้านบึง,03. BKK3
+41088,PURE,PURE พัทยา,03. BKK3
+41113,PURE,PURE พัทยา 3,03. BKK3
+41042,PURE,PURE พัทยา2,03. BKK3
+41181,PURE,PURE สาขาพัทยา1_2,03. BKK3
+41176,PURE,Pure สัตหีบ,03. BKK3
+41154,PURE,Pure สาขาฉะเชิงเทรา 2,03. BKK3
+41058,PURE,PURE ฉะเชิงเทรา,03. BKK3
+41024,PURE,PURE บางพลี,03. BKK3
+41076,PURE,PURE หทัยราษฎร์,03. BKK3
+41074,PURE,PURE เคหะร่มเกล้า,03. BKK3
+41103,PURE,PURE สุขาภิบาล 3,03. BKK3
+41107,PURE,PURE สุขาภิบาล 5,03. BKK3
+41085,PURE,PURE สุวินทวงศ์,03. BKK3
+41057,PURE,Pure เมกาบางนา,03. BKK3
+41170,PURE,Pure สำโรง2,03. BKK3
+41187,PURE,PURE หนามแดง,03. BKK3
+41037,PURE,PURE สมุทรปราการ,03. BKK3
+41005,PURE,PURE สำโรง,03. BKK3
+22527,BIGC MINI,"BCM ชุมชนเจ็ดยอด,เชียงใหม่",05. North
+22687,BIGC MINI,BCM ถ.สหกรณ์ 3 เชียงใหม่,05. North
+21440,BIGC MINI,BCM ตลาดบ้านกาด แม่วาง,05. North
+21606,BIGC MINI,BCM ถนนเทวัญ,05. North
+21552,BIGC MINI,BCM หลิ่งมื่น เชียงใหม่,05. North
+22143,BIGC MINI,"BCM ถนนพ่อขุน,เชียงราย",05. North
+22558,BIGC MINI,"BCM ภูทับเบิก,เพชรบูรณ์",05. North
+21892,BIGC MINI,"BCM ดงมูลเหล็ก, เพชรบูรณ์",05. North
+22447,BIGC MINI,"BCM ปางมะผ้า,แม่ฮ่องสอน",05. North
+21441,BIGC MINI,BCM บ้านกร่าง พิษณุโลก,05. North
+21687,BIGC MINI,BCM บ้านน้ำโท้ง,05. North
+21370,BIGC MINI,BCM BCP เมืองบางยม-สวรรคโลก,05. North
+21479,BIGC MINI,BCM ตลาดเดอะฟิวชั่นเอส,05. North
+21586,BIGC MINI,BCM ถนนเจริญเมือง,05. North
+22660,BIGC MINI,BCM คาลเท็กซ์ ห้าแยกพ่อขุน,05. North
+22370,BIGC MINI,"BCM ราชรถ,พิจิตร",05. North
+22547,BIGC MINI,"BCM สามัคคีธรรม, อุตรดิตถ์",05. North
+41199,PURE,PURE พันธุ์ทิพย์ เชียงใหม่,05. North
+41030,PURE,PURE เชียงใหม่,05. North
+41017,PURE,PURE หางดง,05. North
+41010,PURE,PURE เชียงราย,05. North
+41180,PURE,PURE เชียงราย 2,05. North
+41093,PURE,PURE เพชรบูรณ์,05. North
+41086,PURE,PURE แพร่,05. North
+41110,PURE,PURE ตาก,05. North
+41011,PURE,PURE พิษณุโลก,05. North
+41069,PURE,PURE ลำพูน,05. North
+41087,PURE,PURE สุโขทัย,05. North
+41155,PURE,Pure เชียงใหม่ 2,05. North
+41015,PURE,PURE กำแพงเพชร,05. North
+41012,PURE,PURE นครสวรรค์,05. North
+41159,PURE,Pure น่าน,05. North
+41018,PURE,PURE ลำปาง,05. North
+41043,PURE,PURE หล่มสัก,05. North
+21354,BIGC MINI,BCM BCP วังมะนาว 1,06. Central-West
+22057,BIGC MINI,"BCM อำเภอท่าม่วง,กาญจนบุรี",06. Central-West
+22383,BIGC MINI,"BCM บ้านเบิก,ลพบุรี",06. Central-West
+22012,BIGC MINI,"BCM บ้านทุ่งดินขอ,สระบุรี",06. Central-West
+21425,BIGC MINI,BCM หนองแค สระบุรี,06. Central-West
+21273,BIGC MINI,BCM ตลาดสระแก้ว,06. Central-West
+22616,BIGC MINI,BCM เขาสามยอด ลพบุรี,06. Central-West
+21693,BIGC MINI,BCM ภิญญาช้อปปิ้งเซ็นเตอร์,06. Central-West
+22261,BIGC MINI,"BCM ตลาดทรัพย์พูลมา,สระบุรี",06. Central-West
+21836,BIGC MINI,"BCM ซอยแนบเคหาสน์6,ประจวบคีรีขันธ์",06. Central-West
+21233,BIGC MINI,BCM BCPเอเชีย กม 150,06. Central-West
+21181,BIGC MINI,BCM BCP เอเชีย กม62,06. Central-West
+21362,BIGC MINI,BCM BCP คลองสวนพลู,06. Central-West
+21934,BIGC MINI,"BCM ชุมชนวัดสะแก,พระนครศรีอยุธยา",06. Central-West
+21155,BIGC MINI,BCM ตลาดจอมพล,06. Central-West
+22192,BIGC MINI,"BCM ชุมชนพระขาว,อยุธยา",06. Central-West
+21101,BIGC MINI,BCM ตลาดวังน้อย,06. Central-West
+21244,BIGC MINI,BCM BCPพระราม2 กม20,06. Central-West
+21543,BIGC MINI,BCM ทิวลิป สแควร์,06. Central-West
+21260,BIGC MINI,BCM BCP พระราม 2 กม.33,06. Central-West
+21589,BIGC MINI,BCM  สินธิวาธานี 2,06. Central-West
+21533,BIGC MINI,BCM หมู่บ้านเดอะแกรน,06. Central-West
+22448,BIGC MINI,"BCM ม.กรุงศรีธานี,พระนครศรีอยุธยา",06. Central-West
+41035,PURE,PURE เพชรบุรี,06. Central-West
+41034,PURE,PURE ราชบุรี,06. Central-West
+41020,PURE,PURE ลพบุรี,06. Central-West
+41134,PURE,Pure กาญจนบุรี,06. Central-West
+41019,PURE,PURE สระบุรี,06. Central-West
+41193,PURE,PURE ไฮเปอร์ สระบุรี,06. Central-West
+41096,PURE,PURE หัวหิน,06. Central-West
+41105,PURE,PURE อ่างทอง,06. Central-West
+41070,PURE,PURE อยุธยา,06. Central-West
+41014,PURE,PURE สาขามหาชัย,06. Central-West
+41188,PURE,PURE มหาชัย2,06. Central-West
+41115,PURE,PURE สมุทรสงคราม,06. Central-West
+41120,PURE,PURE สุพรรณบุรี,06. Central-West
+22473,BIGC MINI,"BCM ซำสูง, ขอนแก่น",07. NE1
+21628,BIGC MINI,BCM พิมานธานี,07. NE1
+21819,BIGC MINI,"BCM ภูเวียง,ขอนแก่น",07. NE1
+22630,BIGC MINI,BCM บีงโขงหลง บึงกาฬ,07. NE1
+31032,BIGC MINI,BCM FC หนองบัวแดง อุดรธานี,07. NE1
+21694,BIGC MINI,BCM ตลาดโต้รุ่ง มหาสารคาม,07. NE1
+22166,BIGC MINI,"BCM ตลาดยิ่งเจริญ,มหาสารคาม",07. NE1
+21460,BIGC MINI,BCM ซอยจินตคาม,07. NE1
+22292,BIGC MINI,"BCM โพนสวรรค์,นครพนม",07. NE1
+22212,BIGC MINI,"BCM โพนทอง,ร้อยเอ็ด",07. NE1
+22436,BIGC MINI,"BCM ชุมชนหนองพอก,ร้อยเอ็ด",07. NE1
+21633,BIGC MINI,BCM ห้าแยก กกโพธิ์,07. NE1
+22014,BIGC MINI,"BCM ชุมชนบ่อหิน,หนองคาย",07. NE1
+22171,BIGC MINI,"BCM บ้านเอื้ออาทรร้อยเอ็ด,ร้อยเอ็ด",07. NE1
+15032,MARKET,สาขา BMK โกสุมพิสัย,07. NE1
+15039,MARKET,สาขา BMK บรบือ,07. NE1
+41073,PURE,PURE เลย,07. NE1
+41112,PURE,PURE กาฬสินธุ์,07. NE1
+41165,PURE,Pure กระนวน,07. NE1
+41183,PURE,PURE ขอนแก่น 2,07. NE1
+41009,PURE,PURE ขอนแก่น,07. NE1
+41066,PURE,PURE มหาสารคาม,07. NE1
+41079,PURE,PURE มุกดาหาร,07. NE1
+41081,PURE,PURE สกลนคร,07. NE1
+41008,PURE,PURE อุดรธานี,07. NE1
+41133,PURE,Pure นครพนม,07. NE1
+41092,PURE,PURE ร้อยเอ็ด,07. NE1
+22459,BIGC MINI,"BCM ขนงพระ เขาใหญ่,นครราชสีมา",08. NE2
+31078,BIGC MINI,BCM FC Shellมิตรภาพ กม.140 ขาเข้า,08. NE2
+21845,BIGC MINI,"BCM บางจากศรีราชา,ชลบุรี",08. NE2
+22570,BIGC MINI,BCM อุทุมพรพิสัย ศรีสะเกษ,08. NE2
+22160,BIGC MINI,"BCM ตลาดเทศบาลสตึก,บุรีรัมย์",08. NE2
+22668,BIGC MINI,BCM ช่องจอม สุรินทร์,08. NE2
+41158,PURE,Pure สีคิ้ว,08. NE2
+41174,PURE,Pure โคราช 2,08. NE2
+41185,PURE,PURE ปากช่อง,08. NE2
+41002,PURE,PURE วารินชำราบ,08. NE2
+41007,PURE,PURE โคราช,08. NE2
+41062,PURE,PURE ศรีสะเกษ,08. NE2
+41027,PURE,PURE อุบลราชธานี,08. NE2
+41060,PURE,Pure พิบูลมังสาหาร,08. NE2
+41067,PURE,PURE ชัยภูมิ,08. NE2
+41064,PURE,PURE บุรีรัมย์,08. NE2
+41061,PURE,PURE ยโสธร,08. NE2
+41095,PURE,PURE อำนาจเจริญ,08. NE2
+41082,PURE,PURE สระแก้ว,08. NE2
+41063,PURE,PURE สุรินทร์,08. NE2
+41137,PURE,Pure ศรีมหาโพธิ,08. NE2
+22309,BIGC MINI,"BCM ชุมชนเมาะสือแม, นราธิวาส",09. South
+22521,BIGC MINI,"BCM แว้ง, นราธิวาส",09. South
+22417,BIGC MINI,"BCM จะแนะ,นราธิวาส",09. South
+22432,BIGC MINI,"BCM ดุซงญอ,นราธิวาส",09. South
+22329,BIGC MINI,"BCM ตลาดตันหยงมัส,นราธิวาส",09. South
+22393,BIGC MINI,"BCM ตาบา,นราธิวาส",09. South
+22373,BIGC MINI,"BCM อำเภอรือเสาะ,นราธิวาส ",09. South
+22297,BIGC MINI,"BCM ซ.บ่อทอง9,ปัตตานี",09. South
+22167,BIGC MINI,"BCM ซอยเจริญลาภ,ภูเก็ต",09. South
+22170,BIGC MINI,"BCM ตือเบาะ,ยะลา",09. South
+22247,BIGC MINI,"BCM ถ.ผังเมือง4ซ.บานา,ยะลา",09. South
+22228,BIGC MINI,"BCM ถนนผังเมือง 5,ยะลา",09. South
+22415,BIGC MINI,"BCM บ้านเนียง,ยะลา",09. South
+21953,BIGC MINI,"BCM ราชภัฏยะลา,ยะลา",09. South
+22424,BIGC MINI,"BCM ชุมชนหนองจอก,ระยอง",09. South
+22217,BIGC MINI,"BCM ถนนเจริญประดิษฐ์ ซอย1,ปัตตานี",09. South
+22149,BIGC MINI,"BCM ถนนสามัคคี สาย ข.,ปัตตานี",09. South
+22428,BIGC MINI,BCM ถ.ทรายทอง4สุไหงโก-ลก,09. South
+22409,BIGC MINI,"BCM สุไหงโก-ลก 2,นราธิวาส",09. South
+22351,BIGC MINI,"BCM สุไหงโก-ลก, นราธิวาส",09. South
+21704,BIGC MINI,BCM หลังมหาวิทยาลัยสงขลานครินทร์2,09. South
+22657,BIGC MINI,BCM ท่าเรือหัวเทียนเกาะพะงัน,09. South
+22653,BIGC MINI,BCM บ.มะเดื่อหวานเกาะพะงัน,09. South
+22654,BIGC MINI,BCM ศูนย์ราชการเกาะพะงัน,09. South
+41197,PURE,PURE ปัตตานี,09. South
+41028,PURE,PURE พังงา,09. South
+41049,PURE,PURE เทพกษัตรีย์,09. South
+41025,PURE,PURE ภูเก็ต,09. South
+41053,PURE,Pure กมลา,09. South
+41196,PURE,PURE ยะลา,09. South
+41029,PURE,PURE แหลมทอง,09. South
+41023,PURE,PURE ระยอง,09. South
+41189,PURE,PURE บ่อวิน,09. South
+41026,PURE,PURE หาดใหญ่,09. South
+41143,PURE,Pure หาดใหญ่ 2,09. South
+41075,PURE,PURE สตูล,09. South
+41190,PURE,PURE นราธิวาส,09. South
+41172,PURE,Pure ภูเก็ต2,09. South
+41192,PURE,"PURE สุไหงโก-ลก,นราธิวาส",09. South
+41072,PURE,PURE กระบี่,09. South
+41129,PURE,PURE ตรัง,09. South
+41179,PURE,PURE นครศรีธรรมราช,09. South
+41171,PURE,Pure ระนอง,09. South
+41109,PURE,PURE เกาะพะงัน,09. South
+41106,PURE,PURE สาขาสมุย,09. South
+41036,PURE,PURE สุราษฎร์ธานี,09. South
+41098,PURE,PURE ชุมพร,09. South
+11149,MARKET,สาขา BMK,Unknown
+15012,MARKET,สาขา BMK,Unknown
+15021,MARKET,สาขา BMK,Unknown
+15024,MARKET,สาขา BMK,Unknown
+15025,MARKET,สาขา BMK,Unknown
+15028,MARKET,สาขา BMK,Unknown
+15031,MARKET,สาขา BMK,Unknown
+15036,MARKET,สาขา BMK,Unknown
+15042,MARKET,สาขา BMK,Unknown
+15049,MARKET,สาขา BMK,Unknown
+15052,MARKET,สาขา BMK,Unknown
+15056,MARKET,สาขา BMK,Unknown
+15057,MARKET,สาขา BMK,Unknown
+15060,MARKET,สาขา BMK,Unknown
+80001,ONLINE,สาขาพระราม 4,Unknown
+80002,ONLINE,สาขา Wechat ราชดำริ,Unknown
+80004,ONLINE,สาขา Online TikTok,Unknown
+80003,ONLINE,สาขา Online สำโรง,Unknown
+82002,ONLINE,สาขา ออนไลน์ยยูเอสเอ,Unknown
+82001,ONLINE,สาขา ออนไลน์ไซน่า,Unknown
+82003,ONLINE,สาขาบิ๊กซี ออนไลน์ CHINA BONED,Unknown
+41090,PURE,PURE,Unknown
+41125,PURE,PURE,Unknown
+14003,BIGC_DEPOT,14003  Depot_Prakhonchai,10. Depot
+14004,BIGC_DEPOT,14004  Depot_Takhli,10. Depot
+14005,BIGC_DEPOT,14005  Depot_Kuchi Narai,10. Depot
+14006,BIGC_DEPOT,14006  Depot_Prathai,10. Depot
+14007,BIGC_DEPOT,14007  Depot_Pakthongchai,10. Depot
+14008,BIGC_DEPOT,14008  Depot_Bantakhun,10. Depot
+14009,BIGC_DEPOT,14009  Depot_Trakarn pudpon,10. Depot
+14010,BIGC_DEPOT,14010  Depot_Taphanhin,10. Depot
+14011,BIGC_DEPOT,14011  Depot_Prasat,10. Depot
+14012,BIGC_DEPOT,14012  Depot_Bamnet Narong,10. Depot
+14013,BIGC_DEPOT,14013  Depot_Somdet (Kalasin),10. Depot
+14014,BIGC_DEPOT,14014  Depot_Chockchai 4,10. Depot
+15007,FOOD PLACE,15007 Pracha uthit,01. BKK1
+15061,FOOD PLACE,15061 Gateway Bang Po (Bang Sue),01. BKK1
+15063,FOOD PLACE,15063 Tha IT,01. BKK1
+15066,FOOD PLACE,15066 Food Place KFPPNT,01. BKK1
+15003,FOOD PLACE,15003 Saimai,02. BKK2
+15004,FOOD PLACE,15004 Sukhaphiban 5,02. BKK2
+15006,FOOD PLACE,15006 Suanluang,02. BKK2
+15062,FOOD PLACE,15062 Samyan Mitrtown,02. BKK2
+15065,FOOD PLACE,15065 Food Place BJC 1,02. BKK2
+15067,FOOD PLACE,15067 Asiatique,02. BKK2
+15068,FOOD PLACE,15068 One Bangkok,02. BKK2
+15069,FOOD PLACE,15069 The Old Siam,02. BKK2
+15070,FOOD PLACE,15070 Mahatun,02. BKK2
+15071,FOOD PLACE,15071 Jas Ramintra,02. BKK2
+15008,FOOD PLACE,15008 Keha Romklao,03. BKK3
+15009,FOOD PLACE,15009 Hatairat,03. BKK3
+15064,FOOD PLACE,15064 Nam Daeng,03. BKK3
+11101,HYPERMARKET,11101 Wongsawang,01. BKK1
+11102,HYPERMARKET,11102 Chaengwattana 1,01. BKK1
+11103,HYPERMARKET,11103 Radburana JUMBO,01. BKK1
+11107,HYPERMARKET,11107 Nakornpathom,01. BKK1
+11114,HYPERMARKET,11114 Rattanatibeth 1,01. BKK1
+11116,HYPERMARKET,11116 Rama2,01. BKK1
+11128,HYPERMARKET,11128 Suksawat,01. BKK1
+11132,HYPERMARKET,11132 Daokanong,01. BKK1
+11133,HYPERMARKET,11133 Tiwanon,01. BKK1
+11141,HYPERMARKET,11141 Aomyai,01. BKK1
+11142,HYPERMARKET,11142 Phetchakasem 1,01. BKK1
+11179,HYPERMARKET,11179 Phetchakasem 2,01. BKK1
+11183,HYPERMARKET,11183 Bangyai,01. BKK1
+11185,HYPERMARKET,11185 Chaengwattana 2,01. BKK1
+11189,HYPERMARKET,11189 Rattanatibeth 2,01. BKK1
+11195,HYPERMARKET,11195 Bangbon,01. BKK1
+11196,HYPERMARKET,11196 Bangpakok,01. BKK1
+11197,HYPERMARKET,11197 Rama2_2,01. BKK1
+11199,HYPERMARKET,11199 Issaraphap,01. BKK1
+11221,HYPERMARKET,11221 Kanlapaphruek,01. BKK1
+11234,HYPERMARKET,11234 Pathum thani,01. BKK1
+11252,HYPERMARKET,11252 Sai Noi,01. BKK1
+11108,HYPERMARKET,11108 Rangsit 1,02. BKK2
+11122,HYPERMARKET,11122 Huamark,02. BKK2
+11125,HYPERMARKET,11125 Don Mueang ,02. BKK2
+11126,HYPERMARKET,11126 Fashion Island,02. BKK2
+11130,HYPERMARKET,11130 Bangna,02. BKK2
+11131,HYPERMARKET,11131 Ladphrao 1,02. BKK2
+11136,HYPERMARKET,11136 Saphankwai,02. BKK2
+11144,HYPERMARKET,11144 Ekkamai,02. BKK2
+11148,HYPERMARKET,11148 Lumlukka 1,02. BKK2
+11161,HYPERMARKET,11161 Navanakorn JUMBO,02. BKK2
+11162,HYPERMARKET,11162 Rangsit  Klong 6,02. BKK2
+11174,HYPERMARKET,11174 Ladphrao 2,02. BKK2
+11178,HYPERMARKET,11178 Srinakarin,02. BKK2
+11180,HYPERMARKET,11180 Ramintra ,02. BKK2
+11182,HYPERMARKET,11182 Onnuch,02. BKK2
+11190,HYPERMARKET,11190 Rama 4,02. BKK2
+11191,HYPERMARKET,11191 Ratchada,02. BKK2
+11193,HYPERMARKET,11193 Lumlukka 2,02. BKK2
+11194,HYPERMARKET,11194 Rangsit 2,02. BKK2
+11198,HYPERMARKET,11198 Rangsit Klong 3,02. BKK2
+11104,HYPERMARKET,11104 Pattaya 1,03. BKK3
+11106,HYPERMARKET,11106 Bangplee,03. BKK3
+11115,HYPERMARKET,11115 Rayong,03. BKK3
+11123,HYPERMARKET,11123 Samutprakran,03. BKK3
+11134,HYPERMARKET,11134 Pattaya 2 Horeca,03. BKK3
+11138,HYPERMARKET,11138 Samrong 1,03. BKK3
+11143,HYPERMARKET,11143 Sukhapiban3_1,03. BKK3
+11152,HYPERMARKET,11152 Chonburi  1,03. BKK3
+11170,HYPERMARKET,11170 Laemthong,03. BKK3
+11175,HYPERMARKET,11175 Chonburi CPN,03. BKK3
+11177,HYPERMARKET,11177 Sukhapiban3_2,03. BKK3
+11181,HYPERMARKET,11181 Chonburi 2,03. BKK3
+11192,HYPERMARKET,11192 Pattaya 3,03. BKK3
+11200,HYPERMARKET,11200 Suwingtawong,03. BKK3
+11201,HYPERMARKET,11201 Nongchok,03. BKK3
+11202,HYPERMARKET,11202 Romklao,03. BKK3
+11208,HYPERMARKET,11208 Bangbueng,03. BKK3
+11209,HYPERMARKET,11209 Chantaburi,03. BKK3
+11210,HYPERMARKET,11210 Mega Bangna,03. BKK3
+11244,HYPERMARKET,11244 Sattahip (Chonburi),03. BKK3
+11255,HYPERMARKET,11255 Bowin                                             ,03. BKK3
+14001,HYPERMARKET,14001 JBO Samrong,03. BKK3
+11172,HYPERMARKET,11172 Rajdamri,04. Rajdamri
+11113,HYPERMARKET,11113 Pisanulok,05. North
+11117,HYPERMARKET,11117 Chiangrai,05. North
+11118,HYPERMARKET,11118 Lampang,05. North
+11127,HYPERMARKET,11127 Chiangmai 1,05. North
+11135,HYPERMARKET,11135 Nakhonsawan 1,05. North
+11146,HYPERMARKET,11146 Phare,05. North
+11150,HYPERMARKET,11150 Lumphun,05. North
+11154,HYPERMARKET,11154 Hangdong 1,05. North
+11156,HYPERMARKET,11156 Sukothai,05. North
+11159,HYPERMARKET,11159 Phechabun,05. North
+11171,HYPERMARKET,11171 Kamphengphet,05. North
+11184,HYPERMARKET,11184 Chiangmai 2,05. North
+11188,HYPERMARKET,11188 Hangdong 2,05. North
+11207,HYPERMARKET,11207 Tak,05. North
+11214,HYPERMARKET,11214 Nakhonsawan 2,05. North
+11225,HYPERMARKET,11225 Nan,05. North
+11238,HYPERMARKET,11238 Tha tako (Nakhonsawan) ,05. North
+11241,HYPERMARKET,11241 Wichian Buri (Phetchabun),05. North
+11246,HYPERMARKET,11246 Nong Bua (Nakornsawan),05. North
+11248,HYPERMARKET,11248 Latyao Nakornsawan,05. North
+11250,HYPERMARKET,11250 Chiangrai2,05. North
+11119,HYPERMARKET,11119 Lopburi 1,06. Central-West
+11120,HYPERMARKET,11120 Petchaburi,06. Central-West
+11137,HYPERMARKET,11137 Chachoengsao 1,06. Central-West
+11147,HYPERMARKET,11147 Ratchaburi,06. Central-West
+11155,HYPERMARKET,11155 Ayuttaya Horeca,06. Central-West
+11157,HYPERMARKET,11157 Banpong,06. Central-West
+11168,HYPERMARKET,11168 Mahachai,06. Central-West
+11176,HYPERMARKET,11176 Lopburi 2,06. Central-West
+11204,HYPERMARKET,11204 Chachoengsao 2,06. Central-West
+11216,HYPERMARKET,11216 Angthong,06. Central-West
+11218,HYPERMARKET,11218 Samutsongkram,06. Central-West
+11219,HYPERMARKET,11219 Suphanburi,06. Central-West
+11224,HYPERMARKET,11224 Kanchanaburi,06. Central-West
+11254,HYPERMARKET,11254 Mahachai2,06. Central-West
+11258,HYPERMARKET,11258 Saraburi,06. Central-West
+11109,HYPERMARKET,11109 Udonthani 1,07. NE1
+11110,HYPERMARKET,11110 Khonkaen,07. NE1
+11145,HYPERMARKET,11145 Sakolnakorn,07. NE1
+11166,HYPERMARKET,11166 Mahasarakham,07. NE1
+11205,HYPERMARKET,11205 Udonthani 2,07. NE1
+11211,HYPERMARKET,11211 Loei,07. NE1
+11213,HYPERMARKET,11213 Mukdahan,07. NE1
+11215,HYPERMARKET,11215 Roiet,07. NE1
+11217,HYPERMARKET,11217 Kalasin,07. NE1
+11223,HYPERMARKET,11223 Nakhonpanom,07. NE1
+11226,HYPERMARKET,11226 Kranuan,07. NE1
+11228,HYPERMARKET,11228 Phon Phisai,07. NE1
+11230,HYPERMARKET,11230 Banphai,07. NE1
+11231,HYPERMARKET,11231 Nong Khai,07. NE1
+11235,HYPERMARKET,11235 Ban Dung (Udon Thani),07. NE1
+11240,HYPERMARKET,11240 Suwannaphum (Roi Et),07. NE1
+11242,HYPERMARKET,11242 Kham Ta Kla (Sakon Nakhon),07. NE1
+11243,HYPERMARKET,11243 Phang Khon (Sakon Nakhon),07. NE1
+11251,HYPERMARKET,11251 Khon Kaen (Mueang Kao),07. NE1
+11111,HYPERMARKET,11111 Korat,08. NE2
+11124,HYPERMARKET,11124 Ubon,08. NE2
+11140,HYPERMARKET,11140 Surin,08. NE2
+11153,HYPERMARKET,11153 Buriram,08. NE2
+11158,HYPERMARKET,11158 Chaiyaphoom,08. NE2
+11163,HYPERMARKET,11163 Yasothon,08. NE2
+11164,HYPERMARKET,11164 Sakhew,08. NE2
+11165,HYPERMARKET,11165 Varinchamrab,08. NE2
+11167,HYPERMARKET,11167 Sisaket,08. NE2
+11169,HYPERMARKET,11169 Amnatchroen,08. NE2
+11222,HYPERMARKET,11222 Sri Mahapot,08. NE2
+11232,HYPERMARKET,11232 Aranyaprathet,08. NE2
+11233,HYPERMARKET,11233 Korat 2  ,08. NE2
+11236,HYPERMARKET,11236 Nam Yuen (Ubonratchathani),08. NE2
+11237,HYPERMARKET,11237 Wang num yen (Sakaeo) ,08. NE2
+11239,HYPERMARKET,11239 Dan khun thot (Korat),08. NE2
+11247,HYPERMARKET,11247 Nong Ki Buriram,08. NE2
+11253,HYPERMARKET,11253 Pakchong,08. NE2
+15014,HYPERMARKET,15014 Phibulmangsaharn,08. NE2
+11112,HYPERMARKET,11112 Suratthanee,09. South
+11121,HYPERMARKET,11121 Hatyai 1,09. South
+11129,HYPERMARKET,11129 Phuket 1,09. South
+11139,HYPERMARKET,11139 Pattani,09. South
+11151,HYPERMARKET,11151 Samui,09. South
+11160,HYPERMARKET,11160 Krabi,09. South
+11186,HYPERMARKET,11186 Hatyai 2,09. South
+11187,HYPERMARKET,11187 Phuket 2,09. South
+11206,HYPERMARKET,11206 Chumporn,09. South
+11212,HYPERMARKET,11212 Satun,09. South
+11220,HYPERMARKET,11220 Trang,09. South
+11227,HYPERMARKET,11227 Ranong,09. South
+11229,HYPERMARKET,11229 Na Thawi,09. South
+11249,HYPERMARKET,11249 Nakornsrithammarat 2,09. South
+11256,HYPERMARKET,11256 Narathiwat                                        ,09. South
+11257,HYPERMARKET,11257 HSKLOK,09. South
+11259,HYPERMARKET,11259 HHYAL1,09. South
+14002,HYPERMARKET,14002 Klang Bangna KM.19,11. Dummy
+15050,MARKET,15050 Phutthamothon Sai 5,01. BKK1
+15053,MARKET,15053 Panthai Norasing,01. BKK1
+15055,MARKET,15055 Wat Lat Pladuk,01. BKK1
+15017,MARKET,15017 Khubon,02. BKK2
+15015,MARKET,15015 Pluak Daeng,03. BKK3
+15018,MARKET,15018 Banpae,03. BKK3
+15054,MARKET,15054 Kohchang,03. BKK3
+15010,MARKET,15010 Lomsak,05. North
+15030,MARKET,15030 Sawankhalok,05. North
+15035,MARKET,15035 Bangmunnak,05. North
+15059,MARKET,15059 Pantip Chiangmai,05. North
+15001,MARKET,15001 BJR Saraburi,06. Central-West
+15016,MARKET,15016 Tha Rue,06. Central-West
+15019,MARKET,15019 Chaam,06. Central-West
+15020,MARKET,15020 Hua Hin,06. Central-West
+15040,MARKET,15040 Wiset Chaichan,06. Central-West
+15047,MARKET,15047 Nongmoung,06. Central-West
+15023,MARKET,15023 Chiangkhan,07. NE1
+15033,MARKET,15033 Selaphum,07. NE1
+15041,MARKET,15041 Namsom,07. NE1
+15045,MARKET,15045 Phuwiang,07. NE1
+15046,MARKET,15046 Sophisai,07. NE1
+15058,MARKET,15058 Wangsaphung,07. NE1
+15027,MARKET,15027 Rasisalai,08. NE2
+15038,MARKET,15038 Sikhiew,08. NE2
+15044,MARKET,15044 Non Sung,08. NE2
+15048,MARKET,15048 Chumphuang,08. NE2
+15051,MARKET,15051 Huaitalaeng,08. NE2
+15002,MARKET,15002 BJR PhangNga,09. South
+15011,MARKET,15011 Thepkasattri,09. South
+15013,MARKET,15013 Kamala,09. South
+15022,MARKET,15022 Koh Phangan,09. South
+15026,MARKET,15026 Sichon,09. South
+15029,MARKET,15029 Ranot,09. South
+15034,MARKET,15034 Takuapa,09. South
